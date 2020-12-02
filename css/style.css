@@ -3,7 +3,8 @@ html, body{
     height: 100%;
 }
 
-/* background의 가로 세로를 설정해주려면 부모 태그에도 모두 적용시켜줘야 한다. 기본 설정이 0이었기 때문! */
+/* background의 가로 세로를 설정해주려면 부모 태그에도 모두 적용시켜줘야 한다. 
+기본 설정이 0이었기 때문! */
 
 .bx-wrapper, .bx-viewport, .slider{
     width: 100%;
